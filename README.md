@@ -1,7 +1,9 @@
-# login-page
+# login-page  
 
-📸 Screenshots
+📸 Screenshots  
+
 ![Login Page](photo.PNG)
 
-🌐 Live Demo
+🌐 Live Demo  
+
 🔗https://rabia-bano.github.io/login-page/
